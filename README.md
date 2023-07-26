@@ -11,6 +11,6 @@ gohunch --name names.txt --del . --nomutate
 gohunch --name v3ryun1queus3rn4me
 ```
 ## Screenshots
-![image](https://github.com/R00tendo/gohunch/assets/72181445/9be4a810-f394-4e64-8876-9ec4f5b0e3f8)
+![image](https://github.com/R00tendo/gohunch/assets/72181445/3345ac1c-be99-41bd-a37d-4e0a31b53adc)
 
-![image](https://github.com/R00tendo/gohunch/assets/72181445/fcdfe519-31fc-4bdd-957b-9f29ac8a9c4e)
+![image](https://github.com/R00tendo/gohunch/assets/72181445/f5143576-81c1-4e2a-abae-2c4986df2fc8)
