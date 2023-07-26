@@ -1,7 +1,7 @@
 # GOHUNCH
 Just a small script I coded to generate emails and usernames from names/usernames or a combination of those.
 ## Installation
-`go get github.com/R00tendo/gohunch@latest`
+`go install github.com/R00tendo/gohunch@latest`
 ## Usage examples
 ```
 #Generates username canditates from a list of first.last names
