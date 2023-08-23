@@ -1,6 +1,6 @@
 # GOHUNCH
 ### Generates a list of possible email addresses from usernames/names
-## Installation`go install github.com/R00tendo/gohunch@latest`
+## Installation: `go install github.com/R00tendo/gohunch@latest`
 ## Usage examples
 ```
 #Generates username canditates from a list of first.last names
