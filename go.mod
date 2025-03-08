@@ -1,3 +1,3 @@
-module github.com/R00tendo/gohunch
+module github.com/SpoofIMEI/gohunch
 
 go 1.20
